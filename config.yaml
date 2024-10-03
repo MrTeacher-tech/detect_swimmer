@@ -1,0 +1,9 @@
+path: /Users/andrewverrilliadmin/Desktop/programs/swimmer_tracker/code/data
+train: images/train
+val: images/val
+
+#classes
+
+names:
+  0: person
+  1: water
